@@ -3,6 +3,24 @@
     <channel>
         <title>Busca</title>
         <item>
+            <title>0.1.7</title>
+            <pubDate>Sun, 11 Oct 2026 12:32:21 -0600</pubDate>
+            <link>https://github.com/hectormonte1/busca-releases</link>
+            <sparkle:version>20261011182428</sparkle:version>
+            <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>El permiso de disco vuelve a la app correcta</h2>
+<ul>
+  <li>Corrige el aviso de falta de Acceso total al disco cuando Busca encontraba un motor de desarrollo o de una sesión anterior.</li>
+  <li>Busca inicia su propio motor firmado y lo cierra al salir. Las pruebas de velocidad ya no dejan motores abiertos.</li>
+  <li>La publicación se detiene si cambia la identidad firmada de Busca o de su motor respecto de la versión pública anterior.</li>
+</ul>
+<p>No hace falta dar un permiso separado a fsearch. Se conservan el certificado Busca Dev, tus preferencias y tus índices.</p>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.7/Busca-0.1.7.dmg" length="13357619" type="application/octet-stream" sparkle:edSignature="t1P72qtgwy4yxpHKk+zVqFRrOpYWMbE30HqpRRKQ4eOmNR4COXwn0vIj9sAgKJ5AWzQnZ8aiMG2/ZqGJDN8SBQ=="/>
+        </item>
+        <item>
             <title>0.1.6</title>
             <pubDate>Sun, 11 Oct 2026 11:43:03 -0600</pubDate>
             <link>https://github.com/hectormonte1/busca-releases</link>
