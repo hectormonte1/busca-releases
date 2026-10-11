@@ -3,6 +3,25 @@
     <channel>
         <title>Busca</title>
         <item>
+            <title>0.1.5</title>
+            <pubDate>Sun, 11 Oct 2026 03:06:26 -0600</pubDate>
+            <link>https://github.com/hectormonte1/busca-releases</link>
+            <sparkle:version>20261011090412</sparkle:version>
+            <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Busca 0.1.5</h2>
+<ul>
+<li>Conectores opcionales a 0UI y Google, con ⌘1 y ⌘2. 0UI solo deja la pregunta escrita: tú decides cuándo enviarla.</li>
+<li>Agrega tus propios buscadores en Preferencias → Conectores con una URL que contenga {q}. Todos revisan datos sensibles, Gordo y el límite de 500 caracteres antes de salir.</li>
+<li>Filtra con app, pdf, foto, doc, hoja, slide, código, carpeta, copi, notion, chatgpt o sereno seguidos de un espacio. Tab y ⇧Tab recorren los filtros; retroceso con el campo vacío quita la cápsula.</li>
+<li>Escribe @ para elegir una app instalada y buscar archivos que se abren con ella. Añade hoy, ayer, semana o mes para filtrar por fecha.</li>
+<li>Al pasar el mouse por el panel aparecen iconos de filtros y conectores encima. El tamaño del panel y sus filas se conservan.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.5/Busca-0.1.5.dmg" length="13305055" type="application/octet-stream" sparkle:edSignature="eYkbiu596JhMgweM7JYpo7mFacXU6JES6nt6HTgmzFUKMLa8XbEI823ewEwCgQkEJgwjxuFnlI1VgDXiAdK7AQ=="/>
+        </item>
+        <item>
             <title>0.1.4</title>
             <pubDate>Sun, 11 Oct 2026 02:44:51 -0600</pubDate>
             <link>https://github.com/hectormonte1/busca-releases</link>
