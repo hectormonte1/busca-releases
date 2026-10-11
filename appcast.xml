@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Busca</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Sat, 10 Oct 2026 21:25:03 -0600</pubDate>
+            <link>https://github.com/hectormonte1/busca-releases</link>
+            <sparkle:version>202610110320</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Busca 0.1.0</h2>
+<ul>
+  <li>Busca por nombre y dentro de archivos, al instante, sin salir de tu Mac.</li>
+  <li>Fuentes opcionales: historial y resúmenes de Copi, tiempo de pantalla de Sereno y ChatGPT Computer History.</li>
+  <li>Quick Look con Espacio sin cerrar el panel.</li>
+  <li>Actualizaciones automáticas con Sparkle.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.0/Busca-0.1.0.dmg" length="6146624" type="application/octet-stream" sparkle:edSignature="04xMGO02TQuCkyQMTddpvm5r9h3nKgX9B3Xe0Rue8zfwJrYv9eXZQEJ5GzYP8ELzHQUqtDx4qQVL7Te3ZlLjAg=="/>
+        </item>
+    </channel>
+</rss>
