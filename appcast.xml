@@ -3,6 +3,22 @@
     <channel>
         <title>Busca</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Sat, 10 Oct 2026 21:40:27 -0600</pubDate>
+            <link>https://github.com/hectormonte1/busca-releases</link>
+            <sparkle:version>202610110338</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Busca 0.1.1</h2>
+<ul>
+  <li>Ya puedes pegar (⌘V), cortar (⌘X), seleccionar todo (⌘A) y deshacer (⌘Z) en el campo de búsqueda. ⌘C copia el texto seleccionado o, si no hay, la ruta del resultado.</li>
+  <li>Nueva fuente opcional: Notion (tu HQ, Temas y Guiones), exportada a Markdown local con un token de solo lectura. Enter abre la página en Notion.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.1/Busca-0.1.1.dmg" length="6221508" type="application/octet-stream" sparkle:edSignature="l4F/zV0gBuznJza028ElW0o/EXqgEwfZBMiBEGks8dUPtk6Eli/y/XndTFJv+m8QrYQluwdCsqpXlFBweqPiCA=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Sat, 10 Oct 2026 21:25:03 -0600</pubDate>
             <link>https://github.com/hectormonte1/busca-releases</link>
