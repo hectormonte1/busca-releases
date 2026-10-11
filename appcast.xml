@@ -3,6 +3,24 @@
     <channel>
         <title>Busca</title>
         <item>
+            <title>0.1.4</title>
+            <pubDate>Sun, 11 Oct 2026 02:44:51 -0600</pubDate>
+            <link>https://github.com/hectormonte1/busca-releases</link>
+            <sparkle:version>20261011084144</sparkle:version>
+            <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Busca 0.1.4</h2>
+<ul>
+<li>Encuentra tus apps por su nombre en español o inglés: Ajustes del Sistema, Calendario, Notas y más. También reconoce acentos y pequeños errores de escritura.</li>
+<li>Las apps aparecen una sola vez, con su nombre en español. El catálogo se actualiza cuando instalas o borras aplicaciones.</li>
+<li>Preparamos la guardia de salida: datos sensibles, menciones de Gordo y preguntas demasiado largas no podrán salir por los futuros conectores. Gordo sigue visible en las búsquedas locales.</li>
+<li>El panel conserva su diseño. El conector a 0UI todavía no está activado en esta versión.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.4/Busca-0.1.4.dmg" length="13209415" type="application/octet-stream" sparkle:edSignature="Ya7je+lYjq6c/IA7P4REamatf6VP58a8Lwp0Szm6Vjld+sHdF2HJp55PxT60tcLUQLxfYhnWTStZnjSpfbfVDg=="/>
+        </item>
+        <item>
             <title>0.1.3</title>
             <pubDate>Sun, 11 Oct 2026 01:17:14 -0600</pubDate>
             <link>https://github.com/hectormonte1/busca-releases</link>
