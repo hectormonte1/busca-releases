@@ -3,6 +3,27 @@
     <channel>
         <title>Busca</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Sun, 11 Oct 2026 11:43:03 -0600</pubDate>
+            <link>https://github.com/hectormonte1/busca-releases</link>
+            <sparkle:version>20261011173412</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Busca 0.1.6</h2>
+<p>Corrección de memoria y consumo de energía en la búsqueda por significado.</p>
+<ul>
+<li>Ahora eliges las carpetas: ninguna viene seleccionada. Busca cuenta los fragmentos antes de empezar.</li>
+<li>Excluye dependencias, compilaciones, archivos generados y archivos mayores de 1 MB. Empieza por lo reciente.</li>
+<li>Solo calcula con corriente y la Mac inactiva. Se pausa al volver a usarla, con batería, bajo consumo o temperatura alta.</li>
+<li>Una sola carga del modelo, caché de MLX limitada y liberación al terminar o pausar. Abrir el panel no carga el modelo.</li>
+<li>El catálogo de apps ignora los cambios del índice de Busca.</li>
+</ul>
+<p>Tras actualizar, elige tus carpetas en Preferencias → Fuentes → Por significado. El índice semántico automático anterior se elimina; tus archivos permanecen intactos.</p>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.6/Busca-0.1.6.dmg" length="13354801" type="application/octet-stream" sparkle:edSignature="gjgAn4uu0F8YOWQNjtd5fucVEJoNony4Q+wr0kwxc7YkznBGOJCejVCKRmiUoEcvaiXJCFhLUewguynYLdX5AA=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Sun, 11 Oct 2026 03:06:26 -0600</pubDate>
             <link>https://github.com/hectormonte1/busca-releases</link>
