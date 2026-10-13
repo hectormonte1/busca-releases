@@ -72,7 +72,7 @@
 <ul>
 <li>Encuentra tus apps por su nombre en español o inglés: Ajustes del Sistema, Calendario, Notas y más. También reconoce acentos y pequeños errores de escritura.</li>
 <li>Las apps aparecen una sola vez, con su nombre en español. El catálogo se actualiza cuando instalas o borras aplicaciones.</li>
-<li>Preparamos la guardia de salida: datos sensibles y preguntas demasiado largas no podrán salir por los futuros conectores.</li>
+<li>Preparamos la guardia de salida: los datos sensibles y las preguntas demasiado largas no podrán salir por los futuros conectores. Las búsquedas locales no cambian.</li>
 <li>El panel conserva su diseño. El conector a 0UI todavía no está activado en esta versión.</li>
 </ul>
 ]]></description>
@@ -123,7 +123,7 @@
             <description><![CDATA[<h2>Busca 0.1.1</h2>
 <ul>
   <li>Ya puedes pegar (⌘V), cortar (⌘X), seleccionar todo (⌘A) y deshacer (⌘Z) en el campo de búsqueda. ⌘C copia el texto seleccionado o, si no hay, la ruta del resultado.</li>
-  <li>Nueva fuente opcional: Notion (tu HQ, Temas y Guiones), exportada a Markdown local con un token de solo lectura. Enter abre la página en Notion.</li>
+  <li>Nueva fuente opcional: Notion, exportada a Markdown local con un token de solo lectura. Enter abre la página en Notion.</li>
 </ul>
 ]]></description>
             <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.1/Busca-0.1.1.dmg" length="6221508" type="application/octet-stream" sparkle:edSignature="l4F/zV0gBuznJza028ElW0o/EXqgEwfZBMiBEGks8dUPtk6Eli/y/XndTFJv+m8QrYQluwdCsqpXlFBweqPiCA=="/>
