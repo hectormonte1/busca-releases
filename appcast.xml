@@ -3,6 +3,24 @@
     <channel>
         <title>Busca</title>
         <item>
+            <title>0.1.9</title>
+            <pubDate>Tue, 13 Oct 2026 14:41:20 -0600</pubDate>
+            <link>https://github.com/hectormonte1/busca-releases</link>
+            <sparkle:version>20261013203840</sparkle:version>
+            <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Busca 0.1.9</h2>
+<ul>
+<li>Fotos: activar la fuente pide el permiso de macOS. La primera pasada empieza de inmediato, a ritmo bajo mientras usas la Mac, y muestra el total y el avance. Escribe «fotos» para ver las más recientes.</li>
+<li>Una barra más tranquila: seis filtros y Más. Fija tus favoritos arrastrándolos en Ajustes; los demás se ordenan por uso local.</li>
+<li>Acabado Liquid Glass en macOS 26 o posterior, con respaldo en macOS 15 y respeto por las preferencias de accesibilidad. El panel mantiene su tamaño y sus filas.</li>
+<li>Las descargas incluyen también Busca.dmg con nombre fijo. Se mantiene la identidad de firma y los permisos al actualizar.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.9/Busca-0.1.9.dmg" length="13527438" type="application/octet-stream" sparkle:edSignature="HZpDXjpXdL2qYoOaiPO8mGjWqocuAHdKr82g/1srU7MDet40XnSK51lUd33DZzJdrHdedJvIsDrv0JMeleTnDQ=="/>
+        </item>
+        <item>
             <title>0.1.8</title>
             <pubDate>Tue, 13 Oct 2026 14:08:18 -0600</pubDate>
             <link>https://github.com/hectormonte1/busca-releases</link>
