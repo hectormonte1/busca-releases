@@ -3,6 +3,24 @@
     <channel>
         <title>Busca</title>
         <item>
+            <title>0.1.8</title>
+            <pubDate>Tue, 13 Oct 2026 14:08:18 -0600</pubDate>
+            <link>https://github.com/hectormonte1/busca-releases</link>
+            <sparkle:version>20261013200549</sparkle:version>
+            <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<!doctype html><html lang="es"><meta charset="utf-8"><h1>Busca 0.1.8</h1>
+<ul><li>Respuestas rápidas: cálculo, unidades, ritmo de carrera y monedas con tipos diarios del BCE. Enter copia el resultado y ⌘Enter la expresión.</li>
+<li>Fotos, opcional desde Ajustes: busca metadatos locales, fechas, álbumes, favoritas, capturas y selfies. No descarga originales de iCloud.</li>
+<li>Arrastra archivos, fotos locales y resultados por significado a otras apps. ⌘clic selecciona varios; ⌘C copia los archivos. Las respuestas se arrastran como texto.</li>
+<li>Los iconos flotantes muestran su nombre y prefijo. El panel conserva su tamaño y sus filas.</li>
+<li>Filtro de secretos actualizado al main de Copi, sin registrar datos sensibles.</li>
+<li>Conserva la identidad firmada de la app y del motor para mantener los permisos al actualizar.</li></ul>
+<p>Fotos pide su permiso por primera vez desde Ajustes. Los nombres de lugares dependen de los metadatos que PhotoKit exponga localmente. Las monedas muestran siempre la fecha de la caché.</p></html>]]></description>
+            <enclosure url="https://github.com/hectormonte1/busca-releases/releases/download/v0.1.8/Busca-0.1.8.dmg" length="13444246" type="application/octet-stream" sparkle:edSignature="DZ9YIX02aWgcBSPtEXBbkSsyYrw4D35QhSe+NOV1kRFivtVB3TXtDvH4O4XEx8AnJhtixr4rgc/0jTZT83iYBA=="/>
+        </item>
+        <item>
             <title>0.1.7</title>
             <pubDate>Sun, 11 Oct 2026 12:32:21 -0600</pubDate>
             <link>https://github.com/hectormonte1/busca-releases</link>
